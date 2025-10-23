@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OM5T8KslXs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schwila\\Downloads\\Homework01_CSharp\\Homework01_CSharp\\Homework01\\Homework01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schwila\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\schwila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\schwila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\schwila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
